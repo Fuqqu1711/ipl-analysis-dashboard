@@ -67,7 +67,7 @@ Through this project, I gained practical experience in:
 If you found this project insightful or helpful:
 - 🌟 Give it a **star** on GitHub to support my work  
 - 💬 Share your **feedback** — I’d love to improve further  
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) to discuss **data analytics** or **sports analytics**
+- 🤝 Connect with me on [https://www.linkedin.com/in/furqaan-panwala-6a316b160?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app to discuss **data analytics** or **sports analytics**
 
 ---
 
